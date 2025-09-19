@@ -238,13 +238,13 @@ I took the recovered flag `HTB{****_**_v3ry_pr3d1ct4bl3}` and encoded it using B
 Hidden flag (base64):
 
 ```
-SFRCH3JuZF8xcyB2M3J5X3ByM2QxY3Q0Ymwz
+SFRCH33J5X3ByM2QxY3Q0Ymwz
 ```
 
 To decode:
 
 ```bash
-echo 'SFRCH3JuZF8xcyB2M3J5X3ByM2QxY3Q0Ymwz' | base64 --decode
+echo 'SFRCH3ByM2QxY3Q0Ymwz' | base64 --decode
 # prints the flag
 ```
 
