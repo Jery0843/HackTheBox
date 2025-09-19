@@ -192,22 +192,6 @@ If the service injects a consistent noise character (like `W`) between character
 
 ---
 
-## Flag (hidden)
-
-The flag is present below in Base64 encoding. To decode it on your local machine:
-
-```bash
-# Save the Base64 string into a file or echo directly:
-echo "SFRCe3RIMTVfMXNfNF9yM2FMbHlfbDBuR19mTDRnX2lfaDBwM19mMHJfeTBVcl9zNGszX3RINHRfeTBVX3NDcjFwVEVkX3RIMXNfb1JfZWxzM19pVF90MG9LX3FVMXQzX2wwbmchIX0=" | base64 -d
-```
-
-Replace `SFRCe3RIMTVfMXNfNF9yM2FMbHlfbDBuR19mTDRnX2lfaDBwM19mMHJfeTBVcl9zNGszX3RINHRfeTBVX3NDcjFwVEVkX3RIMXNfb1JfZWxzM19pVF90MG9LX3FVMXQzX2wwbmchIX0=` with the Base64 string on the next line.
-
-```
-SFRCe3RIMTVfMXNfNF9yM2FMbHlfbDBuR19mTDRnX2lfaDBwM19mMHJfeTBVcl9zNGszX3RINHRfeTBVX3NDcjFwVEVkX3RIMXNfb1JfZWxzM19pVF90MG9LX3FVMXQzX2wwbmchIX0=
-```
-
----
 
 ## Final notes & resources
 - If you want the raw transcript or additional variants (like handling one-index-per-connection services), tell me and I will append them.
