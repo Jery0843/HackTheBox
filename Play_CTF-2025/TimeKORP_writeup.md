@@ -198,11 +198,11 @@ grep -R --line-number --exclude-dir=.git -E "exec\(|shell_exec\(|system\(|`" .
 The actual flag is **hidden** below as Base64. Decode it only if you are the solver or have permission.
 
 **Base64 (hidden flag):**
-SFRCe3QxbTNfZjByX3RoM191bHQxbTR0M19wd240ZzNfYTYxMTRjNmQwZjJjYWUyNjUwY2Y4YzdmMGYxMDUwMzB9
+SFRCe3QxNmQwZjJjYWUyNjUwY2Y4YzdmMGYxMDUwMzB9
 
 To decode locally:
 ```
-echo 'SFRCe3QxbTNfZjByX3RoM191bHQxbTR0M19wd240ZzNfYTYxMTRjNmQwZjJjYWUyNjUwY2Y4YzdmMGYxMDUwMzB9' | base64 -d
+echo 'SFRCe3QxbTNfY2Y4YzdmMGYxMDUwMzB9' | base64 -d
 ```
 
 ---
