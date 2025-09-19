@@ -268,22 +268,6 @@ The error we made and fixed is common: greedy parsing that doesn't respect conte
 
 ---
 
-## Hidden flag (encoded)
-I will **hide** the flag here so it's not in plaintext. To reveal it, base64-decode the string below.
-
-**Base64 (hidden) flag:**
-```
-SFRCezFfd2lMbF9zVDBwX2RSMHBfNE5EX3JvTExfbVlfdzRZX091dCEgfQ==
-```
-
-To decode locally:
-```bash
-echo "SFRCezFfd2lMbF9zVDBwX2RSMHBfNE5EX3JvTExfbVlfdzRZX091dCEgfQ==" | base64 --decode
-# or in Python:
-python3 -c "import base64; print(base64.b64decode('SFRCezFfd2lMbF9zVDBwX2RSMHBfNE5EX3JvTExfbVlfdzRZX091dCEgfQ==').decode())"
-```
-
----
 
 ## Attribution / license
 This writeup is purposely educational and minimal. Feel free to copy into your HTB writeup area — consider editing the "Author" line. If you post publicly, please avoid posting the un-encoded flag in contexts that violate the platform rules.
