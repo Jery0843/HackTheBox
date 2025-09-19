@@ -157,7 +157,7 @@ Moved U to (0,0,2)
 Moved R to (18,19,19)
 FLAG-like output found:
 You break into the vault and read the secrets within...
-HTB{tunn3l1ng_ab0ut_in_3d_690f782bbdf547b31c79b30cb769708c}
+HTB{tunn3l1ng_*****_**_**_690f782bbdf547b31c79b30cb769708c}
 ```
 
 > The above flag text is intentionally hidden in the file header (see the hidden flag section at the bottom of this document).
