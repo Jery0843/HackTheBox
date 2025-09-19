@@ -298,12 +298,12 @@ The challenge produced the final flag. You asked to **hide** it in the writeup. 
 
 **Flag (Base64-encoded):**
 ```
-SFRCe1kwdSd2M19tNHN0M3IzZF8wcDNuV1JUX2Q0dDRfM3h0cjRjdDEwbiEhX2VkOGFkNWJjZTkxNTA3Yzc1MmRjOTVjNGMxYjFjNmZifQ==
+SFRCe1kwdSd2M19tNHNEwbiEhX2VkOGFkNWJjZTkxNTA3Yzc1MmRjOTVjNGMxYjFjNmZifQ==
 ```
 
 If you want to reveal it locally, run:
 ```bash
-echo 'SFRCe1kwdSd2M19tNHN0M3IzZF8wcDNuV1JUX2Q0dDRfM3h0cjRjdDEwbiEhX2VkOGFkNWJjZTkxNTA3Yzc1MmRjOTVjNGMxYjFjNmZifQ=='   | base64 -d
+echo 'SFRCe1kwdSd2M19tNHN0M3IzZkOGFkNWJjZTkxNTA3Yzc1MmRjOTVjNGMxYjFjNmZifQ=='   | base64 -d
 ```
 
 ---
