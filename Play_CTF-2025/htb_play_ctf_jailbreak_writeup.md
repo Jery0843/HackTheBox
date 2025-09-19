@@ -129,7 +129,7 @@ After submitting the payload into the firmware textarea and pressing **Submit**,
 
 **Observed response (text captured from the page):**
 ```
-Firmware version HTB{b1om3tric_l0cks_4nd_fl1cker1ng_l1ghts_98afd8fe1a996ca57d7cca89e9466d40} update initiated....
+Firmware version HTB{b1om3tric_l0cks_<REDACTED>7cca89e9466d40} update initiated....
 ```
 
 > The raw flag is hidden later in this document (see the hidden section below).
@@ -195,12 +195,12 @@ This document includes all of those pieces so you can turn it into a badge post 
 The flag is intentionally hidden below so you can share this document without immediate flag exposure in rendered view. If you want the raw flag, reveal the source of this Markdown or decode the base64 string below.
 
 <!--
-FLAG (base64): SFRCe2Ixb20zdHJpY19sMGNrc180bmRfZmwxY2tlcjFuZ19sMWdodHNfOThhZmQ4ZmUxYTk5NmNhNTdkN2NjYTg5ZTk0NjZkNDB9
+FLAG (base64): SFRCe2Ixb20zdHJpYmNhNTdkN2NjYTg5ZTk0NjZkNDB9
  -->
 
 > To decode (locally):
 > ```bash
-> echo 'SFRCe2Ixb20zdHJpY19sMGNrc180bmRfZmwxY2tlcjFuZ19sMWdodHNfOThhZmQ4ZmUxYTk5NmNhNTdkN2NjYTg5ZTk0NjZkNDB9' | base64 -d
+> echo 'SFRCe2Ixb20zdHJpY1kN2NjYTg5ZTk0NjZkNDB9' | base64 -d
 > ```
 
 ---
