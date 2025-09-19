@@ -232,13 +232,13 @@ To avoid accidental spoiling in this document, the final flag is encoded in Base
 **Base64 (copy & decode):**
 
 ```
-SFRCe2QwbnRfcDRuMWNfYzR0Y2hfdGhlXzNycm9yfQ==
+SFRCe2QwbnRcm9yfQ==
 ```
 
 Decode with:
 
 ```bash
-echo 'SFRCe2QwbnRfcDRuMWNfYzR0Y2hfdGhlXzNycm9yfQ==' | base64 -d
+echo 'SFRCe2QwbnRfcXzNycm9yfQ==' | base64 -d
 ```
 
 ---
