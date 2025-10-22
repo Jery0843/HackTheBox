@@ -1,4 +1,4 @@
-# Hercules HTB Machine - Complete Educational Writeup
+# Hercules HTB Machine - Writeup
 
 ## Introduction
 
